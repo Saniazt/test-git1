@@ -1,0 +1,26 @@
+From dd9a075a093890a7eafc35bc004a51a77f6412bc Mon Sep 17 00:00:00 2001
+From: saniazt <saniazt@gmail.com>
+Date: Tue, 1 Nov 2022 21:52:32 +0200
+Subject: [PATCH] Changed another 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt.txt b/firstFile.txt.txt
+index 0deac2a..6df6360 100644
+--- a/firstFile.txt.txt
++++ b/firstFile.txt.txt
+@@ -1,7 +1,7 @@
+ Added firstFile.txt to git_145767678
+ Added firstFile.txt to git_1578070780
+-Added firstFile.txt to git_1
+-Added firstFile.txt to git_1
++Added firstFile.txt to git_14235636346
++Added firstFile.txt to git_14575675685678
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+ Added firstFile.txt to git_1
+-- 
+2.33.0.windows.2
+
