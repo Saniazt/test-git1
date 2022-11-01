@@ -2,6 +2,8 @@ Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1546547547
 Added secondFile.txt to git_14356743747
+Added secondFile.txt to git_1234523525
+Added secondFile.txt to git_1234534656
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
 Added secondFile.txt to git_1
